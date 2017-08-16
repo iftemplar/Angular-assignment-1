@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
     styles: [`
       div{
           background: yellow;
+          padding: 30px;
+          text-align: center;
       }  
     `]
 })
